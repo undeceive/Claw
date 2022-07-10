@@ -1,4 +1,4 @@
-# Claw
+# claw
 
 [http://undeceive.io/](http://undeceive.io/)
 
